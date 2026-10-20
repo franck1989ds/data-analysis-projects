@@ -13,7 +13,7 @@ Read here my [CV](./CV.pdf)
 
 **Goal:** Investigate which first-season characteristics are associated with TV show cancellation.
 
-**Description:** A two-notebook project combining IMDb, TMDB, and TVMaze data. The first notebook integrates and cleans the sources, engineering features such as episode rating trends, voting activity, and release strategy. The second performs exploratory analysis and builds a logistic regression classifier.
+**Description:** A two-notebook project combining IMDb, TMDB, and TVMaze data. The first notebook integrates and cleans the sources, engineering features such as episode rating trends, voting activity, and release strategy [here](TV_Shows_project_getDataset.ipynb). The second performs exploratory analysis and builds a logistic regression classifiern [here](TV_shows_project.ipynb).
 
 **Skills:** Data integration, data cleaning, API data collection, feature engineering, exploratory data analysis, binary classification, model evaluation.
 
