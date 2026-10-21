@@ -9,7 +9,7 @@ This portfolio showcases my projects in data analytics, machine learning, and vi
 
 Read here my [CV](./CV.pdf)
 
-### TV Show Cancellation: Exploring First-Season Risk Factors
+## TV Show Cancellation: Exploring First-Season Risk Factors
 
 **Goal:** Investigate which first-season characteristics are associated with TV show cancellation.
 
@@ -22,7 +22,7 @@ Read here my [CV](./CV.pdf)
 **Results:** Built a dataset of 2,143 TV shows before final preprocessing. Higher first-season ratings showed a weak negative correlation with cancellation. The baseline model achieved 80% test accuracy but only 1% recall for canceled shows, highlighting poor minority-class detection and the need for further model refinement.
 
 
-### Brazilian E-Commerce: Delivery Performance & Customer Satisfaction
+## Brazilian E-Commerce: Delivery Performance & Customer Satisfaction
 
 An analysis of the public Olist dataset using Python to explore delivery delays, customer reviews, and differences across regions, product categories, and sellers.
 
