@@ -34,3 +34,6 @@ An analysis of the public Olist dataset using Python to explore delivery delays,
 **Key Finding**: Late deliveries were associated with substantially more low ratings: 62.37% versus 9.27% for on-time orders.
 
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn.
+
+### Interactive Dashboard
+[Explore the Tableau dashboard](https://public.tableau.com/app/profile/francesco.di.stasio/viz/Brazialian_ECommerce/Dashboard1)
