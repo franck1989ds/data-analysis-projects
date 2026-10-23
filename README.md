@@ -38,7 +38,7 @@ An analysis of the public Olist dataset using Python to explore delivery delays,
 [Explore the Tableau dashboard](https://public.tableau.com/app/profile/francesco.di.stasio/viz/Brazialian_ECommerce/Dashboard1)
 
 ### PowerBI Dashboard
-![Dashboard preview](./dashboard.png)
+![Dashboard preview](./Braz_Ecomm-images-0.jpg)
 
 - [Read the report (PDF)](./Olist_Ecommerc_Report.pdf)
 
