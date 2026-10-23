@@ -54,3 +54,15 @@ product performance, customer segments, and regional trends.
 could not be verified. This report is presented as a dashboard
 design and analysis exercise.
 
+## 3GPP TR 38.901 Channel Model — MATLAB Implementation
+
+A MATLAB implementation of selected channel-modeling procedures
+described in 3GPP TR 38.901, developed collaboratively for wireless
+propagation research and simulation.
+
+**Tools:** MATLAB  
+**Topics:** Wireless communications, channel modeling, propagation simulation.
+
+**Authors:** Francesco Di Stasio, Daniel Riviello, Riccardo Tuninato.
+
+[View the project](./3gpp-channel-model-tr-38901-main.zip)
