@@ -65,4 +65,4 @@ propagation research and simulation.
 
 **Authors:** Francesco Di Stasio, Daniel Riviello, Riccardo Tuninato.
 
-[View the project](./3gpp-channel-model-tr-38901-main.zip)
+[Download the project](./3gpp-channel-model-tr-38901-main.zip)
