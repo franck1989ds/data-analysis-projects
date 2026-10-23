@@ -42,3 +42,15 @@ An analysis of the public Olist dataset using Python to explore delivery delays,
 
 - [Read the report (PDF)](./Olist_Ecommerc_Report.pdf)
 
+
+## Retail Sales & Profitability Dashboard
+
+A Power BI reporting project exploring sales, profitability,
+product performance, customer segments, and regional trends.
+
+[View the report (PDF)](./report2.pdf)
+
+**Data source:** The original dataset source and version
+could not be verified. This report is presented as a dashboard
+design and analysis exercise.
+
