@@ -18,7 +18,15 @@ The goal is to investigate which first-season characteristics are associated wit
 
 **Tools:** Python, pandas, NumPy, Requests, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
 
-**Results:** Built a dataset of 2,143 TV shows before final preprocessing. Higher first-season ratings showed a weak negative correlation with cancellation. The baseline model achieved 80% test accuracy but only 1% recall for canceled shows, highlighting poor minority-class detection and the need for further model refinement.
+
+## Bike Rental Demand Prediction
+
+Predict hourly bike rentals using weather and calendar variables by building a linear regression model with a chronological train/test split. 
+
+**Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
+
+[View the notebook](./bike_rental_demand.ipynb)
+[Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
 
 
 ## Brazilian E-Commerce: Delivery Performance & Customer Satisfaction
