@@ -19,14 +19,11 @@ The goal is to investigate which first-season characteristics are associated wit
 **Tools:** Python, pandas, NumPy, Requests, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
 
 This project has been created by using three different data sources:
-- **IMDb Datasets:** Episode ratings to calculate Season 1 drop-off and slope.  
-  Source: [IMDb](https://datasets.imdbws.com/)
+- **IMDb Datasets:** [IMDb](https://datasets.imdbws.com/)
 
-- **TMDB Dataset:** Target variable (cancellation status) and network features, last updated in 2024.  
-  Source: [Kaggle](https://www.kaggle.com/)
+- **TMDB Dataset:** [Kaggle](https://www.kaggle.com/)
 
-- **TVMaze API:** Episode air dates to engineer the release strategy feature: **Binge** (all episodes released together) vs. **Weekly** (episodes released weekly).  
-  Source: [TVMaze](https://www.tvmaze.com/api)
+- **TVMaze API:**  [TVMaze](https://www.tvmaze.com/api)
 
 ## Bike Rental Demand Prediction
 
