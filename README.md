@@ -13,11 +13,20 @@ Read here my [CV](./CV.pdf)
 
 The goal is to investigate which first-season characteristics are associated with TV show cancellation.
 
-1. [Prepare the dataset](TV_Shows_project_getDataset.ipynb)The first notebook integrates and cleans the sources, engineering features such as episode rating trends, voting activity, and release strategy. 
-2. [Model](TV_shows_project.ipynb) The second performs exploratory analysis and builds a logistic regression classifiern.
+1. [Prepare the dataset](TV_Shows_project_getDataset.ipynb): import and cleans the sources, engineering features such as episode rating trends, voting activity, and release strategy. 
+2. [Model](TV_shows_project.ipynb): it performs exploratory analysis and builds a logistic regression classifiern.
 
 **Tools:** Python, pandas, NumPy, Requests, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook.
 
+This project has been created by using three different data sources:
+- **IMDb Datasets:** Episode ratings to calculate Season 1 drop-off and slope.  
+  Source: [IMDb](https://datasets.imdbws.com/)
+
+- **TMDB Dataset:** Target variable (cancellation status) and network features, last updated in 2024.  
+  Source: [Kaggle](https://www.kaggle.com/)
+
+- **TVMaze API:** Episode air dates to engineer the release strategy feature: **Binge** (all episodes released together) vs. **Weekly** (episodes released weekly).  
+  Source: [TVMaze](https://www.tvmaze.com/api)
 
 ## Bike Rental Demand Prediction
 
