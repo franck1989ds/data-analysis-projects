@@ -25,8 +25,8 @@ Predict hourly bike rentals using weather and calendar variables by building a l
 
 **Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn.
 
-1.[View the notebook](./bike_rental_demand.ipynb).
-2.[Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
+1. [View the notebook](./bike_rental_demand.ipynb).
+2. [Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
 
 
 ## Brazilian E-Commerce: Delivery Performance & Customer Satisfaction
